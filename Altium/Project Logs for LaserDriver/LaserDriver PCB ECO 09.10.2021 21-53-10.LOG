@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=Shunt_Sens Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=Shunt_Sens Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=Shunt_Sens Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=Shunt_Sens Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=Shunt_Sens Pin=R31-2
+Removed Member From Class: ClassName=LaserDriver Member=R27
+Removed Member From Class: ClassName=LaserDriver Member=R28
+Removed Member From Class: ClassName=LaserDriver Member=R29
+Removed Member From Class: ClassName=LaserDriver Member=R30
+Removed Member From Class: ClassName=LaserDriver Member=R31
+Change Component Comment : Designator=R19 Old Comment=0.47R New Comment=0.2R
+Change Component Comment : Designator=R20 Old Comment=0.47R New Comment=0.2R
+Change Component Comment : Designator=R21 Old Comment=0.47R New Comment=0.2R
+Change Component Comment : Designator=R22 Old Comment=0.47R New Comment=0.2R
+Change Component Comment : Designator=R23 Old Comment=0.47R New Comment=0.2R
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0402 Resistor"; UniqueID = "\VRYKUVTL" ("\VRYKUVTL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/UCR01MVPFLR200/4053578?s=N4IgTCBcDaIKoGEBKAGAjAWQGoAUBiAMkmCiiALoC%2BQA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UCR01MVPFLR200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0402 Resistor"; UniqueID = "\QTPWGZHY" ("\QTPWGZHY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/UCR01MVPFLR200/4053578?s=N4IgTCBcDaIKoGEBKAGAjAWQGoAUBiAMkmCiiALoC%2BQA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UCR01MVPFLR200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "0402 Resistor"; UniqueID = "\QIENROQG" ("\QIENROQG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/UCR01MVPFLR200/4053578?s=N4IgTCBcDaIKoGEBKAGAjAWQGoAUBiAMkmCiiALoC%2BQA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UCR01MVPFLR200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0402 Resistor"; UniqueID = "\SBXAIHQU" ("\SBXAIHQU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/UCR01MVPFLR200/4053578?s=N4IgTCBcDaIKoGEBKAGAjAWQGoAUBiAMkmCiiALoC%2BQA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UCR01MVPFLR200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "0402 Resistor"; UniqueID = "\RYBRMUMR" ("\RYBRMUMR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/UCR01MVPFLR200/4053578?s=N4IgTCBcDaIKoGEBKAGAjAWQGoAUBiAMkmCiiALoC%2BQA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UCR01MVPFLR200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"

@@ -1,0 +1,15 @@
+Added Component: Designator=J2(IPX U. FL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliExpress"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://aliexpress.ru/i/32666421757.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIY BOX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IPX U. FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Member To Class: ClassName=LaserDriver Member=Component J2 Antenna
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.5mm

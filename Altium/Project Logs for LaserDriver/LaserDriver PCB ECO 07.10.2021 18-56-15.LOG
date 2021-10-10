@@ -1,0 +1,9 @@
+Added Component: Designator=D?(SPL S4L90A_3 A01)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.osram.com/ecat/SMT%20Laser%20SPL%20S4L90A_3%20A01/com/en/class_pim_web_catalog_103489/prd_pim_device_4071163/#62a1fdff42f13778e2055fdc87c50fcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/OSRAM-Opto-Semiconductors/SPL-S4L90A_3-A01?qs=OlC7AqGiEDn4aov%2F5GIeZw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM Opto Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SPL S4L90A_3 A01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Class: Name=LaserDriver
