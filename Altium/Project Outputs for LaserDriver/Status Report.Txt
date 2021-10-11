@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [LaserDriver.PrjPcb]
-   Generated File[LaserDriver-Plated.TXT]
-   Generated File[LaserDriver.LDP]
-   Generated File[LaserDriver.DRR]
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [LaserDriver.PcbDoc]
+   Generated File[LaserDriver.step]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:21:04 On 10.10.2021
+Finished Output Generation At 20:38:11 On 11.10.2021

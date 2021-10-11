@@ -1,7 +1,0 @@
-Change Component Footprint: Designator=R24 Old Footprint=0603 Resistor New Footprint=0402 Resistor
-Change component parameters: Designator = "R24" ("R24"); Footprint = "0603 Resistor"; UniqueID = "\YAEJXDRL" ("\YAEJXDRL")
-Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000189767"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07180RL"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
