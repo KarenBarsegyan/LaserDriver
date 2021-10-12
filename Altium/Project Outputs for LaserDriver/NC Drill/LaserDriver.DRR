@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LaserDriver.PcbDoc   11.10.2021  20:38:07
+NCDrill File Report For: LaserDriver.PcbDoc   12.10.2021  20:05:50
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,11 +8,11 @@ ASCII Plated RoundHoles File : LaserDriver-Plated.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      4mil (0.1mm)                                              Round             102       PTH        2.43inch (61.69mm)
-T2      8mil (0.2mm)                                              Round             37        PTH        4.17inch (105.80mm)
-T3      16mil (0.4mm)                                             Round             74        PTH        9.29inch (235.99mm)
+T2      8mil (0.2mm)                                              Round             40        PTH        4.25inch (107.86mm)
+T3      16mil (0.4mm)                                             Round             73        PTH        9.26inch (235.10mm)
 T4      35mil (0.9mm)                                             Round             2         PTH        0.33inch (8.35mm)
 T5      83mil (2.1mm)                                             Round             4         PTH        3.03inch (77.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              219
+Totals                                                                              221
 
 Total Processing Time (hh:mm:ss) : 00:00:01

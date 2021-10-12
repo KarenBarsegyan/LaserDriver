@@ -92,71 +92,79 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LaserDriver\NC Drill\LaserDriver-Plated.TXT
+DocumentPath=Project Outputs for LaserDriver\Design Rule Check - LaserDriver.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for LaserDriver\NC Drill\LaserDriver.DRR
+DocumentPath=Project Outputs for LaserDriver\NC Drill\LaserDriver-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.EXTREP
+DocumentPath=Project Outputs for LaserDriver\NC Drill\LaserDriver.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBL
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBO
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBP
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBS
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GM1
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GP1
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GP2
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTL
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTO
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTP
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTS
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for LaserDriver\NC Drill\LaserDriver.LDP
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.REP
+DocumentPath=Project Outputs for LaserDriver\NC Drill\LaserDriver.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for LaserDriver\Gerber\LaserDriver.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LaserDriver\ExportSTEP\LaserDriver.step
 DItemRevisionGUID=
 
 [Configuration1]
@@ -522,31 +530,26 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=GOSTBOM
-OutputName5=GOST BOM
+OutputType5=ReportHierarchy
+OutputName5=Report Project Hierarchy
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+OutputType6=Script
+OutputName6=Script Output
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Script
-OutputName7=Script Output
+OutputType7=SimpleBOM
+OutputName7=Simple BOM
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=SimpleBOM
-OutputName8=Simple BOM
+OutputType8=SinglePinNetReporter
+OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=SinglePinNetReporter
-OutputName9=Report Single Pin Nets
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1149,136 +1152,166 @@ ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=BRT_Components.IntLib
-ComponentDesignItemID2=Cap 0.1uF (0603)
-ComponentSymbolReference2=Cap 0.1uF (0603)
+ComponentDesignItemID2=Cap 0.1uF (0402)
+ComponentSymbolReference2=Cap 0.1uF (0402)
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=BRT_Components.IntLib
-ComponentDesignItemID3=Cap 220pF (0402)
-ComponentSymbolReference3=Cap 220pF (0402)
+ComponentDesignItemID3=Cap 1uF (0402)
+ComponentSymbolReference3=Cap 1uF (0402)
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=BRT_Components.IntLib
-ComponentDesignItemID4=Cap 8pF (0603)
-ComponentSymbolReference4=Cap 8pF (0603)
+ComponentDesignItemID4=Cap 220pF (0402)
+ComponentSymbolReference4=Cap 220pF (0402)
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=BRT_Components.IntLib
-ComponentDesignItemID5=Conn 6 [DF13]
-ComponentSymbolReference5=Conn 6 [DF13]
+ComponentDesignItemID5=Cap 8pF (0603)
+ComponentSymbolReference5=Cap 8pF (0603)
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=BRT_Components.IntLib
-ComponentDesignItemID6=Connector SMA
-ComponentSymbolReference6=Connector SMA
+ComponentDesignItemID6=Conn 6 [DF13]
+ComponentSymbolReference6=Conn 6 [DF13]
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=BRT_Components.IntLib
-ComponentDesignItemID7=Diode Schottky (SOD-123FL)
-ComponentSymbolReference7=Diode Schottky (SOD-123FL)
+ComponentDesignItemID7=Connector SMT
+ComponentSymbolReference7=Connector SMT
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=BRT_Components.IntLib
-ComponentDesignItemID8=Ferrite Bead 330 (0402)
-ComponentSymbolReference8=Ferrite Bead 330 (0402)
+ComponentDesignItemID8=Diode Schottky (SOD-123FL)
+ComponentSymbolReference8=Diode Schottky (SOD-123FL)
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=BRT_Components.IntLib
-ComponentDesignItemID9=Inverter (SN74)
-ComponentSymbolReference9=Inverter (SN74)
+ComponentDesignItemID9=D-Trigger [SN74AC74D]
+ComponentSymbolReference9=D-Trigger [SN74AC74D]
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=BRT_Components.IntLib
-ComponentDesignItemID10=Laser 4 Channel
-ComponentSymbolReference10=Laser 4 Channel
+ComponentDesignItemID10=Ferrite Bead 330 (0402)
+ComponentSymbolReference10=Ferrite Bead 330 (0402)
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=BRT_Components.IntLib
-ComponentDesignItemID11=MOSFET Driver [LMG]
-ComponentSymbolReference11=MOSFET Driver [LMG]
+ComponentDesignItemID11=Inverter (SN74)
+ComponentSymbolReference11=Inverter (SN74)
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=BRT_Components.IntLib
-ComponentDesignItemID12=MOSFET-N [EPC]
-ComponentSymbolReference12=MOSFET-N [EPC]
+ComponentDesignItemID12=Laser 4 Channel
+ComponentSymbolReference12=Laser 4 Channel
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=BRT_Components.IntLib
-ComponentDesignItemID13=MOSFET-N x2 [FDC86]
-ComponentSymbolReference13=MOSFET-N x2 [FDC86]
+ComponentDesignItemID13=LDO 1.8V [ADP]
+ComponentSymbolReference13=LDO 1.8V [ADP]
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=BRT_Components.IntLib
-ComponentDesignItemID14=OpAmp [OPA354]
-ComponentSymbolReference14=OpAmp [OPA354]
+ComponentDesignItemID14=MOSFET Driver [LMG]
+ComponentSymbolReference14=MOSFET Driver [LMG]
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=BRT_Components.IntLib
-ComponentDesignItemID15=Res 0.47R(0402)
-ComponentSymbolReference15=Res 0.47R(0402)
+ComponentDesignItemID15=MOSFET-N [EPC]
+ComponentSymbolReference15=MOSFET-N [EPC]
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=BRT_Components.IntLib
-ComponentDesignItemID16=Res 100R (0603)
-ComponentSymbolReference16=Res 100R (0603)
+ComponentDesignItemID16=MOSFET-N x2 [FDC86]
+ComponentSymbolReference16=MOSFET-N x2 [FDC86]
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=BRT_Components.IntLib
-ComponentDesignItemID17=Res 10k (0603)
-ComponentSymbolReference17=Res 10k (0603)
+ComponentDesignItemID17=NPN [MMBT]
+ComponentSymbolReference17=NPN [MMBT]
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=BRT_Components.IntLib
-ComponentDesignItemID18=Res 180R (0603)
-ComponentSymbolReference18=Res 180R (0603)
+ComponentDesignItemID18=OpAmp [OPA354]
+ComponentSymbolReference18=OpAmp [OPA354]
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=BRT_Components.IntLib
-ComponentDesignItemID19=Res 1k (0603)
-ComponentSymbolReference19=Res 1k (0603)
+ComponentDesignItemID19=Res 0.2R (0402)
+ComponentSymbolReference19=Res 0.2R (0402)
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=BRT_Components.IntLib
-ComponentDesignItemID20=Res 3.9k (0603)
-ComponentSymbolReference20=Res 3.9k (0603)
+ComponentDesignItemID20=Res 100k (0402)
+ComponentSymbolReference20=Res 100k (0402)
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=BRT_Components.IntLib
-ComponentDesignItemID21=Res 300R (0603)
-ComponentSymbolReference21=Res 300R (0603)
+ComponentDesignItemID21=Res 100R (0402)
+ComponentSymbolReference21=Res 100R (0402)
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=BRT_Components.IntLib
-ComponentDesignItemID22=Res 51R (0603)
-ComponentSymbolReference22=Res 51R (0603)
+ComponentDesignItemID22=Res 10k (0402)
+ComponentSymbolReference22=Res 10k (0402)
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=BRT_Components.IntLib
-ComponentDesignItemID23=TestPoint
-ComponentSymbolReference23=TestPoint
+ComponentDesignItemID23=Res 180R (0402)
+ComponentSymbolReference23=Res 180R (0402)
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=BRT_Components.IntLib
+ComponentDesignItemID24=Res 1k (0402)
+ComponentSymbolReference24=Res 1k (0402)
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=BRT_Components.IntLib
+ComponentDesignItemID25=Res 200R (0402)
+ComponentSymbolReference25=Res 200R (0402)
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=BRT_Components.IntLib
+ComponentDesignItemID26=Res 3.9k (0402)
+ComponentSymbolReference26=Res 3.9k (0402)
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=BRT_Components.IntLib
+ComponentDesignItemID27=Res 51R (0402)
+ComponentSymbolReference27=Res 51R (0402)
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=BRT_Components.IntLib
+ComponentDesignItemID28=TestPoint
+ComponentSymbolReference28=TestPoint
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1329,41 +1362,44 @@ ModelType3=PCBLIB
 ModelName3=0603 Capicator
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=0603 Resistor
+ModelName4=DF13-6p-1.25H
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=DF13-6p-1.25H
+ModelName5=EPC2001C
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=EPC2001C
+ModelName6=IPX U. FL
 ModelUpdate6=1
 ModelType7=PCBLIB
 ModelName7=MicroPak 6-Lead
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=SMA Connector
+ModelName8=SOD-123FL
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=SOD-123FL
+ModelName9=SOIC-14
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=SOT-23-5
+ModelName10=SOT-23
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SOT236
+ModelName11=SOT-23-5
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=SPL S4L90A_3 A01
+ModelName12=SOT236
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=TestPoint
+ModelName13=SPL S4L90A_3 A01
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=TSSOP-14
+ModelName14=TestPoint
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=WCSP
+ModelName15=TSSOP-14
 ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=WCSP
+ModelUpdate16=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
